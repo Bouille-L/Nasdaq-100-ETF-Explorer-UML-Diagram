@@ -35,6 +35,6 @@ This guide will help you view and interact with the Nasdaq-100 ETF Explorer UML 
 
 * Open Draw.io in your browser: https://app.diagrams.net/
 * Click on 'Open Existing File'.
-* Choose one of our diagrams (after downloading i
+* Choose one of our diagrams (after downloading it)
 
 ## For further questions or contributions, feel free to contact me via Github Channel.
